@@ -1,4 +1,3 @@
-
 # IP Add HTTP/SOCKS4/SOCKS5
 
 Fungsi ini  digunakan untuk menambahkan http://,SOCKS4://, dan SOCKS5:// jika belum ada dan memastikan string diakhiri dengan /.
